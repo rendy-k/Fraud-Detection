@@ -1,20 +1,15 @@
 # Notes:
 
-This dataset seems to be too easy to solve.
+This repository was created originally to be a portfolio for Ethereum trading Fraud Detection. 
 
-The dataset is very likely to be synthetically generated.
+However, after analyzing this dataset, the dataset does not reflect the real-world dataset. It is difficult to find a real-world crypto or forex transaction dataset.
 
-For a reference, please find another repository [here](https://github.com/rendy-k/Loan-Approval-Model).
+Hence, another [repository](https://github.com/rendy-k/Loan-Approval-Model) is developed to showcase:
 
-It contains loan approval Machine Learning modeling. Anomaly detection and customer segmentation are on progress.
+- Credit scoring with Machine Learning modeling;
+- Loan/customer segmentation; and
+- Loan Anomaly detection.
 
-<br> <br>
-
-# Fraud Detection for Ethereum Transaction
-
-(Work in Progress)
-
-Data Source: [Kaggle](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset/data)
 
 <br> <br>
 
@@ -93,3 +88,4 @@ The categorical values are removed because the predictive powers are too high an
 ![alt text](images/feature_importances.png)
 
 
+Data Source: [Kaggle](https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset/data)
